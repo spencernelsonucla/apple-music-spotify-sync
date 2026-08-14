@@ -1,0 +1,38 @@
+# Sync
+1. Set playlists in `playlists.json`
+2. Run `python sync.py`
+
+sync only playlists with this name:
+`python sync.py --playlist "Techno"`
+
+# troubleshooting
+large playlists will hit rate limits.
+
+# Setup
+Steps:
+1. Find your SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET
+
+Go to the Spotify Developer Dashboard and log in with the same Spotify account you want the playlists synced into. Spotify currently requires Premium for Web API use.
+
+https://developer.spotify.com/documentation/web-api?query=uri&utm_source=chatgpt.com
+
+Redirect URI: https://127.0.0.1:8888/callback
+
+2. Set the Client ID and Secret
+
+in .env set
+```
+SPOTIFY_CLIENT_ID=your_client_id_here
+SPOTIFY_CLIENT_SECRET=your_client_secret_here`
+```
+
+3. Generate your SPOTIFY_REFRESH_TOKEN
+
+`python get_refresh_token.py`
+
+The page itself will probably fail to load or show a security warning. That's expected for this script. It doesn't have a local HTTPS server listening there; it just wants Spotify to put the temporary authorization code into the URL.
+
+Copy the entire URL from your browser address bar.
+
+4. Add the refresh token to .env
+SPOTIFY_REFRESH_TOKEN=your_actual_refresh_token`

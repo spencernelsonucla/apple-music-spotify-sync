@@ -1,14 +1,20 @@
 [
   {
-    "name": "Eddie Gibbons Essentials",
-    "apple_id": "pl.u-pMDlfY8LG6r",
-    "spotify_id": "3SAREm1ft0Fdi4T9no6gzO",
-    "spotify_csv": "exports/SP_this_is_eddie_gibbons.csv"
+    "name": "Favorites",
+    "apple_id": "pl.u-vxy6JYjszyj1Wl",
+    "spotify_id": "380tc6k3OAz8eYfZrOVq4f",
+    "spotify_csv": "exports/favorites.csv"
   },
   {
-    "name": "(some of) my favorite songs",
-    "apple_id": "pl.u-EdveCXbK937",
-    "spotify_id": "3y9RWcmHA41RQMwn5UyeOL",
-    "spotify_csv": "exports/SP_some_of_my_favorite_songs.csv"
+    "name": "Ambient",
+    "apple_id": "pl.u-leyl1X8tjL6xMg",
+    "spotify_id": "20VD02hGYMfa6WfWfegToA",
+    "spotify_csv": "exports/ambient.csv"
+  },
+  {
+    "name": "disco-funk-boogie",
+    "apple_id": "pl.u-LdbqqeBTxWAk2j",
+    "spotify_id": "5CHxDfjWbtF0bPc8UcZ2nl",
+    "spotify_csv": "exports/disco-funk-boogie.csv"
   }
 ]
