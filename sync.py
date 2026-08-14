@@ -59,7 +59,14 @@ def _resolve_tracks(
         try:
             match = find_spotify_track(track, sp)
         except spotipy.SpotifyException as e:
-            logger.warning("Search error for %s — %s: %s", track["name"], track["artist"], e)
+            if e.http_status == 429:
+                raise
+            logger.warning(
+                "Search error for %s — %s: %s",
+                track["name"],
+                track["artist"],
+                e,
+            )
             match = None
 
         if match:
