@@ -24,7 +24,7 @@ REPORTS_DIR = PROJECT_DIR / "reports"
 UNMATCHED_FILE = REPORTS_DIR / "unmatched.txt"
 NEEDS_REVIEW_FILE = REPORTS_DIR / "needs_review.json"
 
-SEARCH_DELAY_SECONDS = 0.15
+SEARCH_DELAY_SECONDS = 1
 
 
 def _load_cache() -> dict:
