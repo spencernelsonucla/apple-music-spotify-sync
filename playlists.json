@@ -16,5 +16,11 @@
     "apple_id": "pl.u-LdbqqeBTxWAk2j",
     "spotify_id": "5CHxDfjWbtF0bPc8UcZ2nl",
     "spotify_csv": "exports/disco-funk-boogie.csv"
+  },
+  {
+    "name": "dub-reggae",
+    "apple_id": "pl.u-AkAm8Eyt2pK7xW",
+    "spotify_id": "4NnvJcfC24W2RzwOZweEPu",
+    "spotify_csv": "exports/dub-reggae.csv"
   }
 ]
