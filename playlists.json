@@ -100,5 +100,11 @@
     "apple_id": "pl.u-vxy6k1XFzyj1Wl",
     "spotify_id": "672Ql5v4JRsGKoqPG3dPNG",
     "spotify_csv": "exports/outdoor-sunny.csv"
+  },
+  {
+    "name": "pano-bar-cosmic",
+    "apple_id": "pl.u-ZmblV8Jh0vXzVR",
+    "spotify_id": "217OiKCV07dqIcE6mDnAJM",
+    "spotify_csv": "exports/pano-bar-cosmic.csv"
   }
 ]
