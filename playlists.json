@@ -94,5 +94,11 @@
     "apple_id": "pl.u-leyl0JlhjL6xMg",
     "spotify_id": "1RrvrQogrHmzoUIKngVjxf",
     "spotify_csv": "exports/moonrise-at-mirage.csv"
+  },
+  {
+    "name": "outdoor-sunny",
+    "apple_id": "pl.u-vxy6k1XFzyj1Wl",
+    "spotify_id": "672Ql5v4JRsGKoqPG3dPNG",
+    "spotify_csv": "exports/outdoor-sunny.csv"
   }
 ]
