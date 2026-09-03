@@ -148,5 +148,17 @@
     "apple_id": "pl.u-b3b8RX7syRXLK5",
     "spotify_id": "5cawTLBnVjN2OAg3Z1b7ik",
     "spotify_csv": "exports/rock-classic-singalong.csv"
+  },
+  {
+    "name": "rock-indie-post-punk",
+    "apple_id": "pl.u-PDb4084tLN3keP",
+    "spotify_id": "2S0em9UAXWNeNJvSXjfnqO",
+    "spotify_csv": "exports/rock-indie-post-punk.csv"
+  },
+  {
+    "name": "rock-psych-prog-guitar",
+    "apple_id": "pl.u-Ldbqqj5CxWAk2j",
+    "spotify_id": "5ZokZLMRlxYfmd7rPFdWFy",
+    "spotify_csv": "exports/rock-psych-prog-guitar.csv"
   }
 ]
