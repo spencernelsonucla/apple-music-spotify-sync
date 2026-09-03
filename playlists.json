@@ -88,5 +88,11 @@
     "apple_id": "pl.u-vxy6kjjIzyj1Wl",
     "spotify_id": "0CezYZ1P4T5zaPwvojzhV8",
     "spotify_csv": "exports/jazz.csv"
+  },
+  {
+    "name": "moonrise-at-mirage",
+    "apple_id": "pl.u-leyl0JlhjL6xMg",
+    "spotify_id": "1RrvrQogrHmzoUIKngVjxf",
+    "spotify_csv": "exports/moonrise-at-mirage.csv"
   }
 ]
