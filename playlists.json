@@ -22,5 +22,71 @@
     "apple_id": "pl.u-AkAm8Eyt2pK7xW",
     "spotify_id": "4NnvJcfC24W2RzwOZweEPu",
     "spotify_csv": "exports/dub-reggae.csv"
+  },
+  {
+    "name": "Bass-Breakbeat-Low-End-Theory",
+    "apple_id": "pl.u-leyl1qAfjL6xMg",
+    "spotify_id": "3AydPea8JJRpXZxiTSm80U",
+    "spotify_csv": "exports/bass-breakbeat-low-end-theory.csv"
+  },
+  {
+    "name": "blues",
+    "apple_id": "pl.u-LdbqEz3txWAk2j",
+    "spotify_id": "6F7BWp1ZTvIhFOPBU0gXuB",
+    "spotify_csv": "exports/blues.csv"
+  },
+  {
+    "name": "decompression",
+    "apple_id": "pl.u-6mo4lGvfBP9Z8l",
+    "spotify_id": "65oTrV3Cs3JLdR7WJxYo5H",
+    "spotify_csv": "exports/decompression.csv"
+  },
+  {
+    "name": "dream-pop",
+    "apple_id": "pl.u-RRbV0ZDC3NXxmz",
+    "spotify_id": "4bJocwsieQAH96d9WeCmja",
+    "spotify_csv": "exports/dream-pop.csv"
+  },
+  {
+    "name": "electronica-feel-good",
+    "apple_id": "pl.u-6mo4aWeUBP9Z8l",
+    "spotify_id": "3JWfsKPxahlnGrBxFCUHTg",
+    "spotify_csv": "exports/electronica-feel-good.csv"
+  },
+  {
+    "name": "experimental",
+    "apple_id": "pl.u-Ymb098pHPjKxgZ",
+    "spotify_id": "31JbCGPPyY5NbgrpldUylN",
+    "spotify_csv": "exports/experimental.csv"
+  },
+  {
+    "name": "house-daylight-airy",
+    "apple_id": "pl.u-LdbqzzjCxWAk2j",
+    "spotify_id": "2XeHF4ID5UrB2f0EDcclGU",
+    "spotify_csv": "exports/house-daylight-airy.csv"
+  },
+  {
+    "name": "house-golden-hour-desert",
+    "apple_id": "pl.u-ZmblDDJi0vXzVR",
+    "spotify_id": "6aVY0iRgJswD4QgH2ePE9E",
+    "spotify_csv": "exports/house-golden-hour-desert.csv"
+  },
+  {
+    "name": "house-soul-detroit-classic",
+    "apple_id": "pl.u-6mo411mfBP9Z8l",
+    "spotify_id": "4KNUPV28nzRHiTKYw3lPlB",
+    "spotify_csv": "exports/house-soul-detroit-classic.csv"
+  },
+  {
+    "name": "james-bond",
+    "apple_id": "pl.u-RRbVvBNs3NXxmz",
+    "spotify_id": "1c04Y2607LlrJsItprcYNa",
+    "spotify_csv": "exports/james-bond.csv"
+  },
+  {
+    "name": "jazz",
+    "apple_id": "pl.u-vxy6kjjIzyj1Wl",
+    "spotify_id": "0CezYZ1P4T5zaPwvojzhV8",
+    "spotify_csv": "exports/jazz.csv"
   }
 ]
