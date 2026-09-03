@@ -178,5 +178,11 @@
     "apple_id": "pl.u-PDb40o5TLN3keP",
     "spotify_id": "6ruOYQo6jWa6mKy4g5cRtU",
     "spotify_csv": "exports/rrose-techno.csv"
+  },
+  {
+    "name": "soul-rnb",
+    "apple_id": "pl.u-AkAm8rGH2pK7xW",
+    "spotify_id": "1VON9MNPW0mCDbkLwYSoNv",
+    "spotify_csv": "exports/soul-rnb.csv"
   }
 ]
