@@ -129,7 +129,7 @@
     "name": "rap-psych-alternative",
     "apple_id": "pl.u-vxy6kL3Tzyj1Wl",
     "spotify_id": "6GP755qnnpFORbjdcJXXNM",
-    "spotify_csv": "exports/rap-modern-essentials.csv"
+    "spotify_csv": "exports/rap-psych-alternative.csv"
   },
   {
     "name": "reflective",
@@ -160,5 +160,23 @@
     "apple_id": "pl.u-Ldbqqj5CxWAk2j",
     "spotify_id": "5ZokZLMRlxYfmd7rPFdWFy",
     "spotify_csv": "exports/rock-psych-prog-guitar.csv"
+  },
+  {
+    "name": "rock-sludge",
+    "apple_id": "pl.u-PDb40J4uLN3keP",
+    "spotify_id": "4W3pk5cjWHNJvBKC25L1cT",
+    "spotify_csv": "exports/rock-sludge.csv"
+  },
+  {
+    "name": "rock-surf",
+    "apple_id": "pl.u-ZmblVPJH0vXzVR",
+    "spotify_id": "0IwBk4wREL1IluGBn8hGjY",
+    "spotify_csv": "exports/rock-surf.csv"
+  },
+  {
+    "name": "rrose-techno",
+    "apple_id": "pl.u-PDb40o5TLN3keP",
+    "spotify_id": "6ruOYQo6jWa6mKy4g5cRtU",
+    "spotify_csv": "exports/rrose-techno.csv"
   }
 ]
