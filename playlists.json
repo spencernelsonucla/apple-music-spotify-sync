@@ -106,5 +106,47 @@
     "apple_id": "pl.u-ZmblV8Jh0vXzVR",
     "spotify_id": "217OiKCV07dqIcE6mDnAJM",
     "spotify_csv": "exports/pano-bar-cosmic.csv"
+  },
+  {
+    "name": "pillow-talk",
+    "apple_id": "pl.u-Ymb09oPuPjKxgZ",
+    "spotify_id": "1nllpHLn0zBRakkLboW5qU",
+    "spotify_csv": "exports/pillow-talk.csv"
+  },
+  {
+    "name": "rap-classic-old-school",
+    "apple_id": "pl.u-ZmblVDrT0vXzVR",
+    "spotify_id": "1PvmtEqNeha69RRaNxsNtg",
+    "spotify_csv": "exports/rap-classic-old-school.csv"
+  },
+  {
+    "name": "rap-modern-essentials",
+    "apple_id": "pl.u-RRbVVD7s3NXxmz",
+    "spotify_id": "2kKnsow1hx34XRsCCTb6mv",
+    "spotify_csv": "exports/rap-modern-essentials.csv"
+  },
+  {
+    "name": "rap-psych-alternative",
+    "apple_id": "pl.u-vxy6kL3Tzyj1Wl",
+    "spotify_id": "6GP755qnnpFORbjdcJXXNM",
+    "spotify_csv": "exports/rap-modern-essentials.csv"
+  },
+  {
+    "name": "reflective",
+    "apple_id": "pl.u-PDb40gZFLN3keP",
+    "spotify_id": "1D4qIu1qpWpNSXmszbQHvy",
+    "spotify_csv": "exports/reflective.csv"
+  },
+  {
+    "name": "reminds-me-of-berlin",
+    "apple_id": "pl.u-BNA6rk3F1zope3",
+    "spotify_id": "5RGgCLJ0t3yeuEu7n58wET",
+    "spotify_csv": "exports/reminds-me-of-berlin.csv"
+  },
+  {
+    "name": "rock-classic-singalong",
+    "apple_id": "pl.u-b3b8RX7syRXLK5",
+    "spotify_id": "5cawTLBnVjN2OAg3Z1b7ik",
+    "spotify_csv": "exports/rock-classic-singalong.csv"
   }
 ]
