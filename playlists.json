@@ -184,5 +184,53 @@
     "apple_id": "pl.u-AkAm8rGH2pK7xW",
     "spotify_id": "1VON9MNPW0mCDbkLwYSoNv",
     "spotify_csv": "exports/soul-rnb.csv"
+  },
+  {
+    "name": "speaker_testing",
+    "apple_id": "pl.u-ZmblVKjt0vXzVR",
+    "spotify_id": "4Ns5pxlbUtJhKrGKJxyNyV",
+    "spotify_csv": "exports/speaker_testing.csv"
+  },
+  {
+    "name": "techno_driving_peak",
+    "apple_id": "pl.u-b3b8RA3SyRXLK5",
+    "spotify_id": "5El2wt3BBHLpoU3Tnvq3Lz",
+    "spotify_csv": "exports/techno_driving_peak.csv"
+  },
+  {
+    "name": "techno_dub_hypnotic",
+    "apple_id": "pl.u-BNA6rmRT1zope3",
+    "spotify_id": "5ZEohPIab3AYjjC2Wd5FBS",
+    "spotify_csv": "exports/techno_dub_hypnotic.csv"
+  },
+  {
+    "name": "techno_ethereal_dark",
+    "apple_id": "pl.u-AkAm83pH2pK7xW",
+    "spotify_id": "4ynkgqYzGHEwxoDMIRUiUr",
+    "spotify_csv": "exports/techno_ethereal_dark.csv"
+  },
+  {
+    "name": "techno_experimental",
+    "apple_id": "pl.u-LdbqEpjTxWAk2j",
+    "spotify_id": "4E1iT1Tvzd8iDuTwOXZgTN",
+    "spotify_csv": "exports/techno_experimental.csv"
+  },
+  {
+    "name": "techno_synth_groove_melodic",
+    "apple_id": "pl.u-6mo4483IBP9Z8l",
+    "spotify_id": "5H5mONWFf0bciV9F45vziY",
+    "spotify_csv": "exports/techno_synth_groove_melodic.csv"
+  },
+  {
+    "name": "ukg_ben_ufo",
+    "apple_id": "pl.u-BNA6vpbs1zope3",
+    "spotify_id": "3ADts0Y6rYhYlCsf4bBimq",
+    "spotify_csv": "exports/ukg_ben_ufo.csv"
+  },
+  {
+    "name": "world_funk",
+    "apple_id": "pl.u-BNA66JVT1zope3",
+    "spotify_id": "3cPqp7k4f5ZOe1qKiJfcYk",
+    "spotify_csv": "exports/world_funk.csv"
   }
 ]
