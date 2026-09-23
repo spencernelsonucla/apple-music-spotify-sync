@@ -3,7 +3,7 @@
 2. Run `python sync.py`
 
 sync only playlists with this name:
-`python sync.py --playlist "Techno"`
+`python sync.py --playlist "reminds-me-of-berlin"`
 
 # troubleshooting
 large playlists will hit rate limits.
