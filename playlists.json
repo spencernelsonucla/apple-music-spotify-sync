@@ -78,6 +78,12 @@
     "spotify_csv": "exports/house-soul-detroit-classic.csv"
   },
   {
+    "name": "house_tech_party_upbeat",
+    "apple_id": "pl.u-leylMl6fjL6xMg",
+    "spotify_id": "3WznO2y3rR1v88kkzKgBJj",
+    "spotify_csv": "exports/house_tech_party_upbeat.csv"
+  },
+  {
     "name": "james-bond",
     "apple_id": "pl.u-RRbVvBNs3NXxmz",
     "spotify_id": "1c04Y2607LlrJsItprcYNa",
