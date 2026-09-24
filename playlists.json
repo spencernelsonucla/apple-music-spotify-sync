@@ -48,6 +48,18 @@
     "spotify_csv": "exports/dream-pop.csv"
   },
   {
+    "name": "dnb",
+    "apple_id": "pl.u-BNA6vkJF1zope3",
+    "spotify_id": "58lBZUCp0rHHKIJ0ysAH8O",
+    "spotify_csv": "exports/dnb.csv"
+  },
+  {
+    "name": "downtempo_balearic",
+    "apple_id": "pl.u-6mo4l2WCBP9Z8l",
+    "spotify_id": "1hQ9n1Ai1HrUlegEWKMJ6J",
+    "spotify_csv": "exports/downtempo_balearic.csv"
+  },
+  {
     "name": "electronica-feel-good",
     "apple_id": "pl.u-6mo4aWeUBP9Z8l",
     "spotify_id": "3JWfsKPxahlnGrBxFCUHTg",
