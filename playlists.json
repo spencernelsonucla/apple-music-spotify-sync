@@ -150,6 +150,12 @@
     "spotify_csv": "exports/reminds-me-of-berlin.csv"
   },
   {
+    "name": "floating",
+    "apple_id": "pl.u-b3b8VGgFyRXLK5",
+    "spotify_id": "6PLK4bdY7CDuamaRaHP0Ue",
+    "spotify_csv": "exports/floating.csv"
+  },
+  {
     "name": "rock-classic-singalong",
     "apple_id": "pl.u-b3b8RX7syRXLK5",
     "spotify_id": "5cawTLBnVjN2OAg3Z1b7ik",
